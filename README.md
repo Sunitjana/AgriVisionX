@@ -7,7 +7,7 @@
 ---
 
 ![System Architecture](https://github.com/Sunitjana/AgriVisionX/blob/main/BlockDiagram.png?raw=true)
-*Fig 1: System Architecture of AI-Driven Drone-Based Precision Farming*
+              *Fig 1: System Architecture of AI-Driven Drone-Based Precision Farming*
 
 ---
 
