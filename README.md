@@ -3,7 +3,9 @@
 ## 📌 Project Overview
 
 **AI-Powered Drones for Smart Agriculture** is a scalable, intelligent, and eco-friendly solution that combines Artificial Intelligence (AI), Machine Learning (ML), IoT sensors, and autonomous drones to revolutionize farming practices. It automates crop monitoring, disease detection, treatment, and crop recommendations — improving yield, reducing waste, and promoting sustainable agriculture.
-![System Architecture](images/system_architecture.png)
+---
+
+![System Architecture]([images/system_architecture.png](https://github.com/Sunitjana/AgriVisionX/blob/main/BlockDiagram.png?raw=true))
 *Fig 1: System Architecture of AI-Driven Drone-Based Precision Farming*
 
 ---
