@@ -77,7 +77,7 @@
 ---
 ## 🧾 Project Certificate
 
-[![Patent Certificate]((https://github.com/Sunitjana/AgriVisionX/blob/main/PROJECT%20COMPLETION%20CERTIFICATE.jpg?raw=true))]
+[![Patent Certificate](https://github.com/Sunitjana/AgriVisionX/blob/main/PROJECT%20COMPLETION%20CERTIFICATE.jpg?raw=true)](https://github.com/Sunitjana/AgriVisionX/blob/main/PROJECT%20COMPLETION%20CERTIFICATE.jpg?raw=true)
 
 
 ---
